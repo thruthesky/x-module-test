@@ -1,23 +1,87 @@
 {
-  "name": "x-module-test",
-  "version": "1.0.0",
+  "_args": [
+    [
+      {
+        "raw": "x-module-test",
+        "scope": null,
+        "escapedName": "x-module-test",
+        "name": "x-module-test",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\tmp\\myApp"
+    ]
+  ],
+  "_from": "x-module-test@latest",
+  "_id": "x-module-test@1.0.3",
+  "_inCache": true,
+  "_location": "/x-module-test",
+  "_nodeVersion": "6.9.5",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/x-module-test-1.0.3.tgz_1487765112280_0.21532088238745928"
+  },
+  "_npmUser": {
+    "name": "thruthesky",
+    "email": "thruthesky@gmail.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "x-module-test",
+    "scope": null,
+    "escapedName": "x-module-test",
+    "name": "x-module-test",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/x-module-test/-/x-module-test-1.0.3.tgz",
+  "_shasum": "0bdb25c709811919617aad796ca389adc845ecdc",
+  "_shrinkwrap": null,
+  "_spec": "x-module-test",
+  "_where": "C:\\tmp\\myApp",
+  "author": {
+    "name": "JaeHo Song"
+  },
+  "bugs": {
+    "url": "https://github.com/thruthesky/x-module-test/issues"
+  },
+  "dependencies": {},
   "description": "test module",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "0bdb25c709811919617aad796ca389adc845ecdc",
+    "tarball": "https://registry.npmjs.org/x-module-test/-/x-module-test-1.0.3.tgz"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/thruthesky/x-module-test.git"
-  },
+  "gitHead": "2c746d9a772efd4ea9a061b50d5c724e183ba284",
+  "homepage": "https://github.com/thruthesky/x-module-test#readme",
   "keywords": [
     "test",
     "module"
   ],
-  "author": "JaeHo Song",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/thruthesky/x-module-test/issues"
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "thruthesky",
+      "email": "thruthesky@gmail.com"
+    }
+  ],
+  "name": "x-module-test",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thruthesky/x-module-test.git"
   },
-  "homepage": "https://github.com/thruthesky/x-module-test#readme"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
 }
